@@ -1,0 +1,17 @@
+D:\workspace\asp05\messbrokeRbMQ\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.exe
+D:\workspace\asp05\messbrokeRbMQ\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.deps.json
+D:\workspace\asp05\messbrokeRbMQ\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.runtimeconfig.json
+D:\workspace\asp05\messbrokeRbMQ\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.dll
+D:\workspace\asp05\messbrokeRbMQ\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.pdb
+D:\workspace\asp05\messbrokeRbMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.AssemblyReference.cache
+D:\workspace\asp05\messbrokeRbMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\asp05\messbrokeRbMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.AssemblyInfoInputs.cache
+D:\workspace\asp05\messbrokeRbMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.AssemblyInfo.cs
+D:\workspace\asp05\messbrokeRbMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.CoreCompileInputs.cache
+D:\workspace\asp05\messbrokeRbMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.dll
+D:\workspace\asp05\messbrokeRbMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\refint\FormulaAirline.TicketProcessing.dll
+D:\workspace\asp05\messbrokeRbMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.pdb
+D:\workspace\asp05\messbrokeRbMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.genruntimeconfig.cache
+D:\workspace\asp05\messbrokeRbMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\ref\FormulaAirline.TicketProcessing.dll
+D:\workspace\asp05\messbrokeRbMQ\FormulaAirline.TicketProcessing\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\workspace\asp05\messbrokeRbMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.CopyComplete

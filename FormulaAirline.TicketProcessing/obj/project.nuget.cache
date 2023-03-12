@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "M3ULrZJOcRJAH55Lg/l//ppBbqEPn2awJma9otGyho9v7x8Ugq5wfiF7i/pQLotjdOPSywqjwJSeT6r2Bnf6Ug==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\asp05\\messbrokeRbMQ\\FormulaAirline.TicketProcessing\\FormulaAirline.TicketProcessing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
